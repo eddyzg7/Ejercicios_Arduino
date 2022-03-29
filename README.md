@@ -131,7 +131,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
 - [x] Add Changelog
 - [x] Add back to top links
@@ -144,11 +144,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<!--
+-->
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -178,9 +178,10 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Eddy Zúñiga - eddyazg@gmail.com
+
 Carlos Martínez - cmm264@gcloud.ua.es
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/eddyzg7/Ejercicios_Arduino)
+Project Link: [https://github.com/eddyzg7/Ejercicios_Arduino](https://github.com/eddyzg7/Ejercicios_Arduino)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -189,16 +190,11 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/ed
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Queremos agradecer a los siguientes sitios web, los cuales nos brindaron buena información. 
 
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
+* [Error sobre autenticación en GitHub](https://community.atlassian.com/t5/Sourcetree-questions/Error-Autenticaci%C3%B3n/qaq-p/1772360)
 * [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
