@@ -62,9 +62,8 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del proyecto
 
 Estos son los ejercicios correspondientes a la parte de Arduino, de la asignatura Informática Industrial, del Máster en Automatización y Robótica, del año 2022.
 
@@ -74,7 +73,7 @@ Autores: Eddy Zúñiga y Carlos Martínez
 
 
 
-### Built With
+### Lenguaje utilizado
 
 * [C++](https://es.wikipedia.org/wiki/C%2B%2B)
 
@@ -82,100 +81,8 @@ Autores: Eddy Zúñiga y Carlos Martínez
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
-<!-- ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
-
-<!-- USAGE EXAMPLES -->
-<!-- ## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
-
-<!-- ROADMAP -->
-<!-- ## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
-
-<!-- CONTRIBUTING -->
-<!-- ## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
-
-<!-- LICENSE -->
-<!-- ## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
--->
-
-
 <!-- CONTACT -->
-## Contact
+## Contactos
 
 Eddy Zúñiga - eddyazg@gmail.com
 
@@ -185,16 +92,26 @@ Project Link: [https://github.com/eddyzg7/Ejercicios_Arduino](https://github.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- Recomendaciones -->
+## Recomendaciones
 
+Para subir los archivos desde el repositorio local, se utilizó como cliente el software Sourcetree. Este software ayuda bastante a organizar el proyecto, pero hay que tener ciertas consideraciones:
+
+- GitHub ya no utiliza la contraseña para autentificar, por lo que hay que crearse un Personal access token. Después en el momento en el que se instale el programa, cuando nos pida la contraseña, colocar el Token. 
+- En caso de que no les permita hacer un push por temas de autenticación, se debe ir al enlace colocado en la siguiente sección, en donde nos indica la ruta en la cual debemos eliminar todos los archivos generados, ya que el programa por más que se desinstale, sigue guardando los datos del usuario y contraseña que se cargó inicialmente. 
+- También es muy importante eliminar en el administrador de credenciales, las que se han creado con github. 
+- Reiniciar el ordenador, y volver a instalar el programa, y cuando nos pida la contraseña asegurarnos de que se utilizó el Personal Access Token. 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Agradecimientos
 
 Queremos agradecer a los siguientes sitios web, los cuales nos brindaron buena información. 
 
 * [Error sobre autenticación en GitHub](https://community.atlassian.com/t5/Sourcetree-questions/Error-Autenticaci%C3%B3n/qaq-p/1772360)
+* [Crear Personal Access Token](https://docs.github.com/es/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [GitHub Pages](https://pages.github.com)
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
